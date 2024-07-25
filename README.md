@@ -4,6 +4,7 @@
 **Nacionalidad:** Argentino  
 **Edad:** 46 años 
 **Email:** chiappegus@gmail.com
+**linkedin:** https://www.linkedin.com/in/gustavo-c-9a53059/
 
 ## Objetivo
 
