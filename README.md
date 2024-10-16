@@ -5,10 +5,12 @@
 **Edad:** 46 años 
 **Email:** chiappegus@gmail.com
 **linkedin:** https://www.linkedin.com/in/gustavo-c-9a53059/
+**GitHub**: [chiappegus](https://github.com/chiappegus/CV-Gustavo-Chiappe)
 
-## Objetivo
+## Objetivo  
 
-Profesional con sólida formación en economía aplicada, finanzas cuantitativas y desarrollo tecnológico, buscando una posición en el área de finanzas y mercados bursátiles donde pueda aplicar mis conocimientos en análisis de datos, programación y gestión de información para optimizar procesos y apoyar en la toma de decisiones estratégicas.
+Aplicar mis conocimientos en análisis de datos, programación y gestión de información para optimizar procesos, apoyar la toma de decisiones estratégicas, y mejorar la eficiencia en la gestión de datos dentro de la organización.
+
 
 ## Educación
 
@@ -45,39 +47,37 @@ Profesional con sólida formación en economía aplicada, finanzas cuantitativas
 
 ## Experiencia Laboral
 
-- **Ministerio de Agroindustria**  
-  Dirección Nacional de Emergencias Agropecuarias  
-  **Puesto:** Analista/DEV de la Información en Emergencias Agropecuarias  
-  **Fecha:** Septiembre 2016 - Actual  
-  **Tareas:** 
-  - Asistencia en proyectos relacionados con la gestión de información agropecuaria.
-  - Manejo y optimización de bases de datos.
-  - Generación de informes y modernización de sistemas mediante formularios digitales con geolocalización (GoogleMaps API).
+### Ministerio de Agroindustria  
+**Dirección Nacional de Emergencias Agropecuarias**  
+**Analista/DEV de la Información en Emergencias Agropecuarias**  
+_Septiembre 2016 - Actual_  
+- Optimización de bases de datos y generación de informes.  
+- Implementación de sistemas modernos mediante formularios digitales con geolocalización (GoogleMaps API).  
+- Asistencia en proyectos de manejo de información agropecuaria.
 
-- **Ministerio de Agroindustria**  
-  Dirección Nacional de Fiscalización y Matriculación  
-  **Puesto:** Analista de Faena Bovina-IPCVA en Gestión de la Información Estratégica  
-  **Fecha:** Agosto 2008 - Agosto 2016  
-  **Tareas:** 
-  - Gestión de la información agropecuaria.
-  - Optimización de bases de datos y generación de informes.
+### Ministerio de Agroindustria  
+**Dirección Nacional de Fiscalización y Matriculación**  
+**Analista de Faena Bovina-IPCVA en Gestión de la Información Estratégica**  
+_Agosto 2008 - Agosto 2016_  
+- Gestión y optimización de información agropecuaria.  
+- Elaboración de informes estratégicos para la toma de decisiones.
 
-- **IBM-Telefónica (LMYA SRL)**  
-  **Puesto:** Analista QA  
-  **Fecha:** Abril 2007 - Julio 2008  
-  **Tareas:** 
-  - Mantenimiento de interfaces para usuarios de Telefónica.
-  - Seguimiento y mantenimiento de servidores.
+### IBM-Telefónica (LMYA SRL)  
+**Analista QA**  
+_Abril 2007 - Julio 2008_  
+- Mantenimiento de interfaces para usuarios de Telefónica.  
+- Seguimiento y mantenimiento de servidores.
 
-## Habilidades
+---
 
-- **Idiomas:**  
-  Inglés - Nivel Intermedio
+## Habilidades Técnicas  
+- **Lenguajes de programación**: Python, R, JAVA, Solidity (Ethereum)  
+- **Bases de datos**: SQL, MySQL, PostgreSQL  
+- **Geolocalización**: QGIS, GoogleMaps API  
+- **Desarrollo Web**: PHP, Marathon Behind de THE CODE (IBM)
 
-- **Informática:**
-  - Python, R, JAVA
-  - SQL, MySQL, PostgreSQL
-  - QGIS
-  - Solidity (Blockchains Ethereum)
-  - PHP
-  - Marathon Behind de THE CODE, IBM
+---
+
+## Idiomas  
+- Inglés – Nivel intermedio  
+
