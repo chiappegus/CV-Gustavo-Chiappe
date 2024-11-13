@@ -74,7 +74,8 @@ _Abril 2007 - Julio 2008_
 - **Lenguajes de programación**: Python, R, JAVA, Solidity (Ethereum)  
 - **Bases de datos**: SQL, MySQL, PostgreSQL  
 - **Geolocalización**: QGIS, GoogleMaps API  
-- **Desarrollo Web**: PHP, Marathon Behind de THE CODE (IBM)
+- **Desarrollo Web**: PYTHON(FLASK)  
+- **Maratón Behind The Code 2021**: [Dentro de los 100 mejores de Latam.](https://github.com/maratonadev-la)
 
 ---
 
