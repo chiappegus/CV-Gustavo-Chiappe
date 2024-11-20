@@ -21,7 +21,12 @@ Aplicar mis conocimientos en análisis de datos, programación y gestión de inf
 - **Ingeniería en Producción Agropecuaria**  
   Universidad Católica Argentina, Facultad de Agrarias  
   2005
+  
+- **Programa Inteligencia Artificial / Data Science**  
+  Universidad de Palermo  
+  2024 (Cursando)
 
+  
 - **Programa Finanzas Cuantitativas QUANT**  
   Universidad UCEMA  
   2024 (Cursando)
@@ -29,10 +34,6 @@ Aplicar mis conocimientos en análisis de datos, programación y gestión de inf
 - **Programa Python para Finanzas**  
   Universidad UCEMA  
   2023
-
-- **Programa Inteligencia Artificial / Data Science**  
-  Universidad de Palermo  
-  2024 (Cursando)
 
 - **Programa de Desarrollo de Blockchains**  
   Universidad de Palermo  
