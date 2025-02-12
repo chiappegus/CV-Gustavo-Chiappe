@@ -6,7 +6,7 @@
 🌎 **Nacionalidad:** Argentino  
 📧 **Email:** chiappegus@gmail.com  
 🔗 **LinkedIn:** [Gustavo Chiappe](https://www.linkedin.com/in/gustavo-c-9a53059/)  
-🐙 **GitHub**: [chiappegus](https://github.com/chiappegus/CV-Gustavo-Chiappe)  
+🐙 **GitHub**: [chiappegus](https://chiappegus.github.io/CV-Gustavo-Chiappe/)  
 
 ---
 
