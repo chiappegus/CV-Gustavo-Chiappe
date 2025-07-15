@@ -100,7 +100,7 @@
 🏆 **Maratón Behind The Code 2021 (IBM)** – Top 100 de Latam  
 🔗 [Perfil en GitHub](https://github.com/maratonadev-la)  
 
-###🔹 Proyectos de Ciencia de Datos
+🔹 Proyectos de Ciencia de Datos
 
     🏆 Predicción de Cáncer de Mama (Wisconsin Dataset)
        Notebook en Kaggle: 🔗 [kaggle]([https://github.com/maratonadev-la](https://www.kaggle.com/code/gchiappe/breast-cancer-wisconsin-gustavo-predic-logistic))  
