@@ -1,123 +1,123 @@
-# Gustavo Chiappe ✨🚀  
+Gustavo Chiappe ✨🚀
 
-![GIF Bienvenida](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif
 
-📍 **Dirección:** Billinghurst y Av. Córdoba, Capital Federal (1186)  
-🌎 **Nacionalidad:** Argentino  
-📧 **Email:** chiappegus@gmail.com  
-🔗 **LinkedIn:** [Gustavo Chiappe](https://www.linkedin.com/in/gustavo-c-9a53059/)  
-🐙 **GitHub**: [chiappegus](https://chiappegus.github.io/CV-Gustavo-Chiappe/)  
+📍 Dirección: Billinghurst y Av. Córdoba, Capital Federal (1186)
+🌎 Nacionalidad: Argentino
+📧 Email: chiappegus@gmail.com
+🔗 LinkedIn: Gustavo Chiappe
+🐙 GitHub: chiappegus
+🎯 Objetivo
 
----
+🚀 Aplicar mis conocimientos en análisis de datos, programación y gestión de información para optimizar procesos, apoyar la toma de decisiones estratégicas y mejorar la eficiencia en la gestión de datos dentro de la organización.
 
-## 🎯 **Objetivo**  
+https://media.giphy.com/media/3o7TKP9ln2Dr6ze6p2/giphy.gif
+🎓 Educación
 
-🚀 Aplicar mis conocimientos en **análisis de datos**, **programación** y **gestión de información** para optimizar procesos, apoyar la toma de decisiones estratégicas y mejorar la eficiencia en la gestión de datos dentro de la organización.  
+📚 Maestría en Economía Aplicada
+📍 Universidad Católica Argentina, Facultad de Ciencias Económicas
+📅 Marzo 2014 - 2015
 
-![Datos GIF](https://media.giphy.com/media/3o7TKP9ln2Dr6ze6p2/giphy.gif)  
+🧑‍🎓 Ingeniería en Producción Agropecuaria
+📍 Universidad Católica Argentina, Facultad de Agrarias
+📅 2005
 
----
+🤖 Programa Inteligencia Artificial / Data Science (Cursando)
+📍 Universidad de Palermo - 2024
 
-## 🎓 **Educación**  
+📊 Programa Finanzas Cuantitativas QUANT (Cursando)
+📍 Universidad UCEMA - 2024
 
-📚 **Maestría en Economía Aplicada**  
-📍 *Universidad Católica Argentina, Facultad de Ciencias Económicas*  
-📅 **Marzo 2014 - 2015**  
+🐍 Programa Python para Finanzas
+📍 Universidad UCEMA - 2023
 
-🧑‍🎓 **Ingeniería en Producción Agropecuaria**  
-📍 *Universidad Católica Argentina, Facultad de Agrarias*  
-📅 **2005**  
+🛠️ Programa de Desarrollo de Blockchains
+📍 Universidad de Palermo - 2018
 
-🤖 **Programa Inteligencia Artificial / Data Science** *(Cursando)*  
-📍 *Universidad de Palermo* - **2024**  
+📈 Certificado en BIG-DATA
+📍 Universidad de Catalunya (Colombia online)
 
-📊 **Programa Finanzas Cuantitativas QUANT** *(Cursando)*  
-📍 *Universidad UCEMA* - **2024**  
+💻 Programador Web PHP OO
+📍 NEXT University
+🔖 Certificado: 10804482
+🏢 Experiencia Laboral
+🏛️ Ministerio de Agroindustria
+📍 Dirección Nacional de Emergencias Agropecuarias
 
-🐍 **Programa Python para Finanzas**  
-📍 *Universidad UCEMA* - **2023**  
+🔹 Analista/DEV de la Información en Emergencias Agropecuarias
+📅 Septiembre 2016 - Actual
 
-🛠️ **Programa de Desarrollo de Blockchains**  
-📍 *Universidad de Palermo* - **2018**  
+✅ Optimización de bases de datos y generación de informes.
+✅ Implementación de sistemas modernos mediante formularios digitales con geolocalización (GoogleMaps API).
+✅ Asistencia en proyectos de manejo de información agropecuaria.
+📍 Dirección Nacional de Fiscalización y Matriculación
 
-📈 **Certificado en BIG-DATA**  
-📍 *Universidad de Catalunya (Colombia online)*  
+🔹 Analista de Faena Bovina-IPCVA en Gestión de la Información Estratégica
+📅 Agosto 2008 - Agosto 2016
 
-💻 **Programador Web PHP OO**  
-📍 *NEXT University*  
-🔖 **Certificado:** 10804482  
+✅ Gestión y optimización de información agropecuaria.
+✅ Elaboración de informes estratégicos para la toma de decisiones.
+💾 IBM-Telefónica (LMYA SRL)
 
----
+🔹 Analista QA
+📅 Abril 2007 - Julio 2008
 
-## 🏢 **Experiencia Laboral**  
+✅ Mantenimiento de interfaces para usuarios de Telefónica.
+✅ Seguimiento y mantenimiento de servidores.
+💻 Habilidades Técnicas
+Lenguajes de Programación
 
-### 🏛️ **Ministerio de Agroindustria**  
-#### 📍 Dirección Nacional de Emergencias Agropecuarias  
-**🔹 Analista/DEV de la Información en Emergencias Agropecuarias**  
-📅 _Septiembre 2016 - Actual_  
+✅ Python | R | Java | Solidity (Ethereum)
+Machine Learning & Data Science
 
-✅ Optimización de bases de datos y generación de informes.  
-✅ Implementación de sistemas modernos mediante formularios digitales con geolocalización (*GoogleMaps API*).  
-✅ Asistencia en proyectos de manejo de información agropecuaria.  
+✅ Scikit-Learn | TensorFlow | PyTorch | XGBoost / LightGBM
+✅ Pandas | NumPy | Matplotlib | Seaborn
+Big Data & Cloud Computing
 
-#### 📍 Dirección Nacional de Fiscalización y Matriculación  
-**🔹 Analista de Faena Bovina-IPCVA en Gestión de la Información Estratégica**  
-📅 _Agosto 2008 - Agosto 2016_  
+✅ SQL | MySQL | PostgreSQL
+✅ AWS | Google Cloud AI/ML | Azure ML | Spark (MLlib)
+Geolocalización & SIG
 
-✅ Gestión y optimización de información agropecuaria.  
-✅ Elaboración de informes estratégicos para la toma de decisiones.  
+✅ QGIS | Google Maps API
+Desarrollo Web & Blockchain
 
----
+✅ Python (Flask) | Solidity (Blockchains Ethereum)
+DevOps & MLOps
 
-### 💾 **IBM-Telefónica (LMYA SRL)**  
-**🔹 Analista QA**  
-📅 _Abril 2007 - Julio 2008_  
+✅ Docker | Git / GitHub | Transformers (Hugging Face)
+🏆 Proyectos Destacados
+🔍 Predicción de Cáncer de Mama (Wisconsin Dataset)
 
-✅ Mantenimiento de interfaces para usuarios de Telefónica.  
-✅ Seguimiento y mantenimiento de servidores. 
+🔗 Ver en Kaggle
 
-### **Lenguajes de Programación**  
-✅ Python | R | Java | Solidity (Ethereum)  
+    Modelo de regresión logística para clasificación de tumores malignos/benignos.
 
-### **Machine Learning & Data Science**  
-✅ Scikit-Learn | TensorFlow | PyTorch | XGBoost / LightGBM  
-✅ Pandas | NumPy | Matplotlib | Seaborn  
+    Análisis exploratorio (EDA) y optimización de hiperparámetros.
 
-### **Big Data & Cloud Computing**  
-✅ SQL | MySQL | PostgreSQL  
-✅ AWS | Google Cloud AI/ML | Azure ML | Spark (MLlib)  
+    Tecnologías: Python, Scikit-Learn, Pandas, Matplotlib.
 
-### **Geolocalización & SIG**  
-✅ QGIS | Google Maps API  
+🌲 Árbol de Decisión (Accuracy: 0.77 - Dataset Titanic)
 
-### **Desarrollo Web & Blockchain**  
-✅ Python (Flask) | Solidity (Blockchains Ethereum)  
+🔗 Ver en Kaggle
 
-### **DevOps & MLOps**  
-✅ Docker | Git / GitHub | Transformers (Hugging Face)  
+    Implementación de árbol de decisión con Scikit-Learn.
 
-### **Reconocimientos**  
-🏆 **Maratón Behind The Code 2021 (IBM)** – Top 100 de Latam  
-🔗 [Perfil en GitHub](https://github.com/maratonadev-la)  
+    Evaluación de métricas (matriz de confusión, importancia de features).
 
-🔹 Proyectos de Ciencia de Datos
+    Tecnologías: Python, Scikit-Learn, Seaborn.
 
-    🏆 Predicción de Cáncer de Mama (Wisconsin Dataset)
-       Notebook en Kaggle: 🔗 [kaggle]([https://github.com/maratonadev-la](https://www.kaggle.com/code/gchiappe/breast-cancer-wisconsin-gustavo-predic-logistic))  
+🏅 Reconocimientos
 
-        Modelo de regresión logística para clasificación de tumores malignos/benignos.
+🏆 Maratón Behind The Code 2021 (IBM) – Top 100 de Latam
+🔗 Perfil en GitHub
+🌐 Idiomas
 
-        Análisis exploratorio y optimización de hiperparámetros.
+    Inglés – Nivel intermedio
 
-    🏆 Árbol de Decisión para Predicción (Accuracy: 0.77)
-      Notebook en Kaggle: 🔗 [kaggle]([https://www.kaggle.com/code/gchiappe/decision-tree-accuracy-0-7686567164179104])  
+🔗 Enlaces Clave
 
-        Implementación de un árbol de decisión con Scikit-Learn.(TITANIC)
+    LinkedIn: linkedin.com/in/gustavo-c-9a53059
 
-        Evaluación de métricas y visualización de resultados.
+    GitHub: github.com/chiappegus
 
----
-
-## Idiomas  
-- Inglés – Nivel intermedio  
-
+    Kaggle: kaggle.com/gchiappe
